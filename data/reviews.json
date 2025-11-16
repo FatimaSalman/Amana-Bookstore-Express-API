@@ -109,6 +109,17 @@
       "comment": "Great integration of geophysics with climate science. The plate tectonics chapters are well-written and current.",
       "timestamp": "2024-03-08T11:40:00Z",
       "verified": true
+    },
+    {
+      "id": "review-11",
+      "bookId": "1",
+      "author": "Prof. Michael Chen",
+      "rating": 5,
+      "title": "Exceptional textbook for undergraduate physics",
+      "comment": "The treatment of conservation laws and rotational dynamics is outstanding. Perfect for our engineering physics course.",
+      "timestamp": "2025-11-16T16:11:53.306Z",
+      "verified": true,
+      "submittedBy": "admin"
     }
   ]
 }

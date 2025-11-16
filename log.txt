@@ -1,0 +1,1 @@
+::1 - anonymous [16/Nov/2025:16:32:10 +0000] "GET /api/books HTTP/1.1" 200 2349 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" - APIKey:none

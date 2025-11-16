@@ -21,8 +21,8 @@
       "pages": 654,
       "language": "English",
       "publisher": "Al-Biruni Academic Press",
-      "rating": 4.8,
-      "reviewCount": 23,
+      "rating": 4.7,
+      "reviewCount": 6,
       "inStock": true,
       "featured": true
     },
@@ -77,6 +77,35 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Advanced Computational Physics",
+      "author": "Dr. Sarah Al-Jazari",
+      "description": "Modern computational methods for solving complex physics problems using Python and numerical analysis.",
+      "price": 129.99,
+      "image": "/images/default-book.jpg",
+      "isbn": "978-0456789012",
+      "genre": [
+        "Physics",
+        "Computer Science",
+        "Mathematics"
+      ],
+      "tags": [
+        "Computational",
+        "Python",
+        "Numerical Methods"
+      ],
+      "datePublished": "2024-01-20",
+      "pages": 480,
+      "language": "English",
+      "publisher": "Al-Khwarizmi Computing Press",
+      "rating": 0,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": true,
+      "createdAt": "2025-11-16T16:13:09.824Z",
+      "createdBy": "admin"
     }
   ]
 }
