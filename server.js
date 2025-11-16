@@ -55,17 +55,17 @@ const authorizedUsers = {
     'admin': {
         password: 'bookstore2024', // In production, use hashed passwords
         role: 'admin',
-        apiKey: 'amana-admin-key-2024'
+        apiKey: process.env.ADMIN_API_KEY || 'amana-admin-key-2024'
     },
     'publisher': {
         password: 'publish123',
         role: 'publisher',
-        apiKey: 'amana-publisher-key-2024'
+        apiKey: process.env.PUBLISHER_API_KEY || 'amana-publisher-key-2024'
     },
     'reviewer': {
         password: 'review456',
         role: 'reviewer',
-        apiKey: 'amana-reviewer-key-2024'
+        apiKey: process.env.REVIEWER_API_KEY || 'amana-reviewer-key-2024'
     }
 };
 
